@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "s/Без названия/sss.md",
+                "file": "sv/sv.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sss"
+              "title": "sv"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "s/Без названия/sss.md",
+                "file": "sv/sv.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура sss"
+              "title": "Структура sv"
             }
           },
           {
@@ -195,11 +195,13 @@
   },
   "active": "27ab5fc6e6e94e47",
   "lastOpenFiles": [
-    "s/Без названия/fsf.md",
+    "s/ss.md",
+    "sv/sv.md",
+    "sv",
     "s/Без названия/sss.md",
+    "s/Без названия/fsf.md",
     "s/Без названия/Без названия.md",
     "access.json",
-    "s/ss.md",
     "s/wss.md",
     "README.md",
     "Добро пожаловать.md",
