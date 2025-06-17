@@ -1,0 +1,11 @@
+{
+  "obsidian-access-control:open-panel": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ]
+}

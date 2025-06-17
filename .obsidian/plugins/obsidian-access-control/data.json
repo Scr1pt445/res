@@ -1,0 +1,11 @@
+{
+  "currentUser": {
+    "email": "s@s.s",
+    "password": "sssss",
+    "role": "admin"
+  },
+  "firstAdminSetupDone": true,
+  "gitRepoUrl": "",
+  "gitBranch": "main",
+  "gitAuthToken": ""
+}
